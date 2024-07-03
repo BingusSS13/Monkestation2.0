@@ -225,8 +225,6 @@
 	)
 	research_costs = list(TECHWEB_POINT_TYPE_GENERIC = 2500)
 
-
-
 /datum/techweb_node/bomb_actualizer
 	id = "bomb_actualizer"
 	display_name = "Bomb Actualization Technology"
@@ -236,3 +234,13 @@
 		"bomb_actualizer",
 	)
 	research_costs = list(TECHWEB_POINT_TYPE_GENERIC = 20000)
+/datum/techweb_node/advanced_ipcs
+	id = "advanced_ipcs"
+	display_name = "Advanced Positronic Brain Research"
+	description = "tba"
+	prereq_ids = list("ipc_parts")
+	design_ids = list(
+		"ipc_chest_ipc_construction",
+		"ipc_posibrain"
+	)
+	research_costs = list(TECHWEB_POINT_TYPE_GENERIC = 10000)
