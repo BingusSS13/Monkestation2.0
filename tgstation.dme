@@ -7092,6 +7092,7 @@
 #include "monkestation\code\modules\factory_type_beat\processing\holding_types.dm"
 #include "monkestation\code\modules\factory_type_beat\processing\purification_chamber.dm"
 #include "monkestation\code\modules\factory_type_beat\processing\refinery.dm"
+#include "monkestation\code\modules\experisci\experiment\experiments.dm"
 #include "monkestation\code\modules\flavor_text\flavor_examine.dm"
 #include "monkestation\code\modules\flavor_text\flavor_helpers.dm"
 #include "monkestation\code\modules\flavor_text\flavor_hrefs.dm"

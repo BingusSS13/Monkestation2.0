@@ -236,11 +236,12 @@
 	research_costs = list(TECHWEB_POINT_TYPE_GENERIC = 20000)
 /datum/techweb_node/advanced_ipcs
 	id = "advanced_ipcs"
-	display_name = "Advanced Positronic Brain Research"
+	display_name = "Advanced I.P.C Research"
 	description = "We have the technology to synthesize him."
 	prereq_ids = list("ipc_parts")
 	design_ids = list(
 		"ipc_chest_ipc_construction",
 		"ipc_posibrain"
 	)
+	required_experiments = list(/datum/experiment/scanning/cyborg_scan)
 	research_costs = list(TECHWEB_POINT_TYPE_GENERIC = 10000)
