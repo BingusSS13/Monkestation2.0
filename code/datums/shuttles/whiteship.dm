@@ -56,3 +56,10 @@
 	name = "Obelisk"
 	description = "A large research vessel affected by the Cult of Nar'Sie. PACMAN generator is not wired and next to main grid cabling, so it requires some work."
 	admin_notes = "Not actually an obelisk, has nonsentient cult constructs."
+
+//MONKESTATION ADDITION - blueshift whiteship
+/datum/map_template/shuttle/whiteship/blueshift
+	suffix = "blueshift"
+	name = "NT Luxury Cruiser"
+	description = "TBA"
+	admin_notes = "Docks away from the station docks since it was designed in a way that would make it crash into the station if the dock was placed on the airlocks. Sorry."
