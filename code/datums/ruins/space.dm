@@ -480,3 +480,9 @@
 	name = "Syndicate Depot"
 	description = "A small depot ran by the Syndicate sitting out in space, responsible for logistics across the vast reaches of space."
 
+//MONKESTATION ADDITION - ported from yog
+/datum/map_template/ruin/space/syndicate_derelict_station
+	id = "syndicate_derelict_station"
+	suffix = "syndicate_derelict_station.dmm"
+	name = "Syndicate Derelict"
+	description = "A derelict syndicate station, with two syndicate engineers tasked to rebuild it."
