@@ -291,3 +291,6 @@
 
 /area/centcom/asteroid/nearstation/bomb_site
 	name = "\improper Bomb Testing Asteroid"
+
+/area/centcom/ghost_tutorials
+	name = "Tutorial Area"

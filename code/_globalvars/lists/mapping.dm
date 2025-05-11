@@ -113,6 +113,8 @@ GLOBAL_LIST_EMPTY(generic_event_spawns)
 /// These will take precedence over normal job spawnpoints if created,
 /// essentially allowing a user to override generic job spawnpoints with a specific one
 GLOBAL_LIST_EMPTY(jobspawn_overrides)
+/// List of ghost tutorial chamber landmarks
+GLOBAL_LIST_EMPTY(ghost_tutorial_chambers)
 
 GLOBAL_LIST_EMPTY(wizardstart)
 GLOBAL_LIST_EMPTY(nukeop_start)
